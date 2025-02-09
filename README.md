@@ -1,4 +1,4 @@
-# Sudoku Master - Solver Automático
+# Sudoku Master
 
 ## Descripción del Programa
 Sudoku Master es una aplicación interactiva que permite a los usuarios resolver cualquier rompecabezas de Sudoku de manera automática mediante un algoritmo de **backtracking**. Este método de resolución explora posibles soluciones celda por celda, descartando aquellas combinaciones incorrectas hasta encontrar la solución completa.
